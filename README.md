@@ -1,6 +1,6 @@
 # Procedurally-Generated-Screenshot
 
-Scope: Create universal GD/Technical artist-Tool which give opportunity to make and use different screenshot presets,
+Scope: Create universal tool which give opportunity to make and use different screenshot presets,
 screenshot scenes and create .png/.jpg or .tga icons from existing 3d models (prefabs).
 Also, this tool could be used by developers to create screenshots in runtime and set sprites in necessary placeholders without saving
 of images in project folders.
